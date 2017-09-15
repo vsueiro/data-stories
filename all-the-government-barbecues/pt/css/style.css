@@ -239,6 +239,12 @@ i.dot {
   border-radius: .4rem; 
 }
 
+.btn {
+  border: 1px solid;
+  border-radius: 999px;
+  padding: .8rem 1.6rem;
+}
+
 ::-moz-selection {
   text-shadow: 0 0 0.8rem #FF7770;
   background: rgba(255, 119, 112, 0.1);
